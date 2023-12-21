@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: rgb(39, 39, 39);
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#op{
+  color: wheat;
+  font-size: 30px;
+  background: -webkit-linear-gradient(rgb(255, 0, 0), rgb(197, 60, 124));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#op1{
+  color: wheat;
+  font-size: 30px;
+  background: -webkit-linear-gradient(rgb(24, 17, 121), rgb(0, 225, 255));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-todo{
+  height: 50px;
+  font-size: 30px;
+  border-radius: 50px 50px 50px 50px;
+  background: -webkit-linear-gradient(rgb(255, 72, 0), rgb(219, 5, 5));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#op3{
+  height: 45px;
+  font-size: 30px;
+  border-radius: 50px 50px 50px 50px;
+  background: -webkit-linear-gradient(rgb(255, 72, 0), rgb(219, 5, 5));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 95px;
+  border-color: rgb(212, 80, 80);
+  border-width: 1px;
+}
+
+#todo-input{
+  height: 47px;
+  width: 300px;
+  border-color: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+  font-size: 30px;
+  
+}
+
+#todo-date{
+  height: 47px;
+  width: 300px;
+  border-color: linear-gradient(to right, #f32170, 
+  #ff6b08, #cf23cf, #eedd44); 
+  font-size: 30px;
+  border-radius: 50px 50px 50px 50px;
+}
